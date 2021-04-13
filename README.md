@@ -5,7 +5,7 @@
 ### ✔ Seeking a position as a backend developer 
 
 ### 🖋 Education
-- DongA University
+- Dong-A University
 ### ⚽ Activities
 - Samsung Software Academy For Youth 3rd
 
