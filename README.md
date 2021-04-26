@@ -7,6 +7,6 @@
 ### 🖋 Education
 - Dong-A University
 ### ⚽ Activities
-- Samsung Software Academy For Youth 3rd
+- Samsung Software Academy For Youth 3rdd
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hyeok9sae&show_icons=true&theme=tokyonight)
